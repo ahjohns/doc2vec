@@ -1,9 +1,9 @@
 /* java test
  */
 
-public class HelloWorld
+public class PawphreyBeagart
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		System.out.println("Pawphrey Beaugart is a butt licker!");
 	}
 }
